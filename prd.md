@@ -11,7 +11,7 @@
 ## Data Integration and Acquisition
 
 Real-time data acquisition will utilize the following APIs:
-* **Nodereal:** Retrieves holder list and holder count for BnbChain and Eth.
+* **Moralis:** Retrieves holder list and holder stats for BnbChain, Eth and SOL.
 * **Nansen API:**  Retrieves holder distribution and smart wallet activity.
 * **CryptoQuant API:** Retrieves trading volume and exchange flow data.
 * **Santiment API:** Retrieves social sentiment and development activity data.
