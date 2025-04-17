@@ -12,6 +12,7 @@
 
 Real-time data acquisition will utilize the following APIs:
 * **Moralis:** Retrieves holder list and holder stats for BnbChain, Eth and SOL.
+* **Token Vesting:** Retrieves token Vesting information.
 * **Nansen API:**  Retrieves holder distribution and smart wallet activity.
 * **CryptoQuant API:** Retrieves trading volume and exchange flow data.
 * **Santiment API:** Retrieves social sentiment and development activity data.
