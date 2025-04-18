@@ -3,6 +3,7 @@
 ## Key Metric Definitions
 
 * **Holder Count and Concentration:** Percentage of total supply held by the top 10 holders.
+* **Vesting Schedule:** Scrape vesting contracts onchain / download from Binance Research,Notifications 7 days before vesting.
 * **Large Transaction Volume:** Transfers exceeding $100,000.
 * **Social Media Sentiment Score:** Ratio of positive to negative sentiment.
 * **Active Address Growth Rate:** Rate of increase in the number of newly active addresses.
